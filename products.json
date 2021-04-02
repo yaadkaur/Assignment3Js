@@ -1,0 +1,34 @@
+{
+    "deals": [
+      {
+        "name": "Kitty Thief Piggy Bank",
+        "price": 34.99,
+        "description": "This funny little kitty bank will hopefully motivate the kids into saving money. You just need two AA batteries (not included) to power it up.",
+        "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1565358124-41f1OqIMF2BL.jpg"
+      },
+      {
+        "name": "Original Ostrich Pillow",
+        "price": 14.99,
+        "description": "Use it for a power nap at your desk or to lounge at home.",
+        "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1565378175-51sjlBP93WL.jpg"
+      },
+      {
+        "name": "The Hen Bag Handbag",
+        "price": 25.99,
+        "description": "Is that the latest Hermès bag straight off the runway? No, it's a rubber chicken purse from Amazon",
+        "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1571683417-rubber-chicken-purse-1571683378.jpg"
+      },
+      {
+        "name": "Car French Fry Holder",
+        "price": 13.99,
+        "description": "This tray slides into your cup holder to secure french fry cartons that normally don't fit properly. Respect where respect is due.",
+        "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1571684106-51fLbps8vmL.jpg"
+      },
+      {
+        "name": "Meat Shredder Claws",
+        "price": 11.99,
+        "description": "This surprisingly efficient way of shredding your meat has the added in bonus of making you feel like Wolverine.",
+        "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1571689550-51Q0xuEOjRL.jpg"
+      }
+    ]
+  }
